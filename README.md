@@ -1,2 +1,2 @@
 # Angular-FoodOrderApp
-Angular9, Firebase
+Angular8, Firebase
